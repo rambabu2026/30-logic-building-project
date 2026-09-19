@@ -1,0 +1,33 @@
+Yahan same 30 projects hain, ek clean 1 se 30 tak progressively easy → difficult list mein (bina level headings ke, seedha order):
+
+Even/Odd Checker
+Leap Year Checker
+Simple Interest Calculator
+Temperature Converter (Celsius ↔ Fahrenheit)
+Simple Calculator (+, -, *, / with if-else)
+Number Guessing Game (random number vs user guess)
+Multiplication Table Generator
+Sum of Digits of a Number
+Reverse a Number
+Factorial Calculator (loop se)
+Prime Number Checker
+Fibonacci Series
+Star/Number Pattern Printing (triangle, pyramid, diamond)
+Palindrome Checker (number + string)
+String Reverse (bina built-in function)
+Count Vowels/Consonants in a String
+Largest/Smallest in an Array
+Linear Search
+Binary Search
+Bubble Sort (bina library use kiye)
+Anagram Checker
+Simple Student Grade Calculator
+Simple To-Do List (console based, add/delete/view)
+Contact Book (list/dict based)
+Password Strength Checker (custom logic)
+Rock Paper Scissors Game (vs computer)
+ATM Simulator (balance, withdraw, deposit)
+Simple Quiz Game (MCQs + score tracking)
+Tic-Tac-Toe (2 player, console)
+Library Management System (classes/structs — add/search/remove book)
+(Bonus) Mini Rule-Based Chatbot (if-else logic, bina AI ke)
