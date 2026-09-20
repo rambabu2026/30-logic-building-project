@@ -17,10 +17,10 @@ Ye repository meri **logic-building journey** hai — zero se shuru karke, 30 pr
 
 | # | Project | Status | Language | Concept |
 |---|---------|--------|----------|---------|
-| 1 | Even/Odd Checker | ✅ Done | Python | Conditionals |
-| 2 | Leap Year Checker | ⬜ Pending | - | Conditionals |
-| 3 | Simple Interest Calculator | ⬜ Pending | - | Basic Math |
-| 4 | Temperature Converter | ⬜ Pending | - | Formulas |
+| 1 | Even/Odd Checker | ✅ Done | Python/c++ | Conditionals |
+| 2 | Leap Year Checker | ✅ Done | Python/c++ | Conditionals |
+| 3 | Simple Interest Calculator | ✅ Done | Python/c++ | Basic Math |
+| 4 | Temperature Converter | ✅ Done | Python/c++ | Formulas |
 | 5 | Simple Calculator | ⬜ Pending | - | If-else / Switch |
 | 6 | Number Guessing Game | ⬜ Pending | - | Random, Loops |
 | 7 | Multiplication Table Generator | ⬜ Pending | - | Loops |
