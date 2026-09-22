@@ -21,9 +21,9 @@ Ye repository meri **logic-building journey** hai — zero se shuru karke, 30 pr
 | 2 | Leap Year Checker | ✅ Done | Python/c++ | Conditionals |
 | 3 | Simple Interest Calculator | ✅ Done | Python/c++ | Basic Math |
 | 4 | Temperature Converter | ✅ Done | Python/c++ | Formulas |
-| 5 | Simple Calculator | ⬜ Pending | - | If-else / Switch |
-| 6 | Number Guessing Game | ⬜ Pending | - | Random, Loops |
-| 7 | Multiplication Table Generator | ⬜ Pending | - | Loops |
+| 5 | Simple Calculator | ✅ Done | Python/c++ | If-else / Switch |
+| 6 | Number Guessing Game | ✅ Done | Python/c++ | Random, Loops |
+| 7 | Multiplication Table Generator | ✅ Done | Python/c++ | Loops |
 | 8 | Sum of Digits | ⬜ Pending | - | Loops, Modulus |
 | 9 | Reverse a Number | ⬜ Pending | - | Loops |
 | 10 | Factorial Calculator | ⬜ Pending | - | Loops / Recursion |
