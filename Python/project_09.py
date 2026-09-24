@@ -1,10 +1,8 @@
 # Reverse a Number
-reversed_num = 0
+reverse_num = 0
 n = int(input("Enter n number : "))
-
 while n > 0:
-    last_digits = (n % 10)
-    reversed_num = (reversed_num * 10) + last_digits
+    last_digit = n % 10
+    reverse_num = (reverse_num * 10) + last_digit
     n = n // 10
-
-print(reversed_num)
+print(reverse_num)
